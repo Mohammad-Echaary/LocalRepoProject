@@ -1,2 +1,1 @@
-"Hello Git and Github"  
-" I am MOhammad Echaary"  
+'Hello, Git and GitHub!'
